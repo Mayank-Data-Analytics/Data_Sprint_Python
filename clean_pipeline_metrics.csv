@@ -1,0 +1,6 @@
+Video_ID,Editor_Name,Client,Duration_Sec,Retention_Pct,Target_Met
+V101,Alex,Apex Corp,45,65.5,True
+V102,Sam,Nova Tech,60,45.0,False
+V103,Alex,Zenith Media,30,72.1,True
+V104,Jordan,Apex Corp,55,80.2,True
+V105,Sam,Nova Tech,40,55.0,False
