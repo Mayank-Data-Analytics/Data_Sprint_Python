@@ -1,0 +1,6 @@
+,Daily_Price,7_Day_SMA,21_Day_SMA,Daily_Dollar_Change,Target_Next_Day_Price
+Daily_Price,1.0,0.689,0.718,0.478,0.749
+7_Day_SMA,0.689,1.0,0.739,0.38,0.856
+21_Day_SMA,0.718,0.739,1.0,-0.017,0.69
+Daily_Dollar_Change,0.478,0.38,-0.017,1.0,0.436
+Target_Next_Day_Price,0.749,0.856,0.69,0.436,1.0
