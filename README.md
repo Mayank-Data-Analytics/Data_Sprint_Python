@@ -56,7 +56,7 @@ To discover hidden behavioral profiles among non-churned clients, a **K-Means Cl
 ### Visualizing the Segments
 The K-Means algorithm mathematically isolated the user base into distinct behavioral spaces based on Euclidean distance:
 
-![AI Customer Segmentation Scatter Plot](AI_Customer_Segmentation_Plot.png) *(Note: Ensure your plot image matches this filename in your repo)*
+![Behavioral User Segments](customer_segments.png)
 
 ---
 
